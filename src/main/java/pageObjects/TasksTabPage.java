@@ -102,4 +102,9 @@ public class TasksTabPage {
 	return customerProjectName;
 	}
 	
+	private String customerNameContainer = "//div[@class='innerContainer']";
+	public String customerNameContainer() {
+		return customerNameContainer;
+	}
+	
 }
