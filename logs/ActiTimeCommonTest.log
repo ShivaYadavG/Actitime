@@ -1,0 +1,20 @@
+14:26:12.730 [main] DEBUG test.CommonTest - ----------------------------------------------------
+14:26:12.733 [main] DEBUG test.CommonTest - Browser initialized
+14:26:23.781 [main] DEBUG test.CommonTest - Web Applicaton  launched
+14:26:31.785 [main] DEBUG test.CommonTest - Clicked on create customer button
+14:26:32.177 [main] DEBUG test.CommonTest - Clicked on add new button again
+14:26:32.299 [main] DEBUG test.CommonTest - clicked on new project
+14:26:32.811 [main] DEBUG test.CommonTest - Entered project name
+14:26:33.196 [main] DEBUG test.CommonTest - Clicked on create customer button
+14:26:33.526 [main] DEBUG test.CommonTest - Clicked on add new button to create new task
+14:26:33.603 [main] DEBUG test.CommonTest - Clicked on create new task
+14:26:34.079 [main] DEBUG test.CommonTest - Entered Task name
+14:26:34.187 [main] DEBUG test.CommonTest - Clicked on create task
+14:26:34.397 [main] DEBUG test.CommonTest - Searched customer name
+14:26:35.015 [main] DEBUG test.CommonTest - Found the customer name that is : Shivanew1
+14:26:35.015 [main] DEBUG test.CommonTest - Assertion of customer name
+14:26:35.268 [main] DEBUG test.CommonTest - Clicked on customer view customer projects
+14:26:35.327 [main] DEBUG test.CommonTest - Found the project that is : actitime
+14:26:35.327 [main] DEBUG test.CommonTest - Assertion of project name
+14:26:35.552 [main] DEBUG test.CommonTest - Web Application closed
+14:26:35.552 [main] DEBUG test.CommonTest - ----------------------------------------------------
